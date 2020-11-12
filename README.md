@@ -1,5 +1,7 @@
 # GUI-APP-IN-DOCKER
 
+![GUI-APP-IN-DOCKER](thumbnails/GUI_APP_IN_DOCKER.jpg "GUI APP IN DOCKER")
+
 ## How to use?
 
 ## Build the image from Dockerfile
